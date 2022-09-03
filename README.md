@@ -1,1 +1,2 @@
 # odin-recipes
+In this project a website will be created in which I can show off my current HTML-Skills. Moreover I will be using several kinds of tags and elements, as well as the standard boilerplate code in order to build the website and it's pages. Obviously the site will be about recipes for delicious food!
